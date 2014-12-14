@@ -33,3 +33,5 @@ created for the presentation of WDS.DarkBrain&#174; Productions.<br />
 > available as sample usage from the original production of DarkSystemCD quality<br />
 in which as far it provides has being created from BloodArt logo(art and literature).<br />
 references should restrict moral violence from any purpose where `try - catch - finnaly` would affect this availability before whatever statement.
+
+thanks for choosing DarkSystemCD,
