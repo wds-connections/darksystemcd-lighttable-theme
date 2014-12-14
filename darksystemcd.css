@@ -55,7 +55,7 @@ note: Light Table must fix the issue where background-color for comment
 .cm-s-darksystemcd span.cm-variable-3 {color: #DEE0D7;}                        /*hover,link*/
 .cm-s-darksystemcd span.cm-property {color: #C9C9C9; font-weight:bold;}        /*lenght,indexOf*/
 .cm-s-darksystemcd span.cm-operator {color: #E8E8E8;}
-.cm-s-darksystemcd span.cm-comment {color: silver; background-color:#0A246A;}  /*comment*/
+.cm-s-darksystemcd span.cm-comment {background-color:#0A246A;}                 /*comment*/
 .cm-s-darksystemcd span.cm-string {color: #E6DD9C;}                            /*string*/
 .cm-s-darksystemcd span.cm-string-2 {color: #DBAD7D;}
 .cm-s-darksystemcd span.cm-meta {color: #E0ACA4;}                              /*<!DOCTYPE html>,-webkit-*/
