@@ -1,0 +1,76 @@
+/*
+
+DarkSystemCD, Light Table | Theme
+
+DarkSystemCD® used to identify, meet, work and publish
+logics and programming design, software, games and music
+on interfaces and electronic, digital and virtual media.
+darksystemcd@gmx.com.br
+
+WDS_Styles is a layout personality scheme
+created for the presentation of WDS.DarkBrain® Productions.
+
+available as sample usage from the original production of DarkSystemCD quality
+in which as far it provides has being created from BloodArt logo(art and literature).
+references should restrict moral violence from any purpose where try - catch - finnaly would affect this availability before whatever statement.
+
+thanks for choosing DarkSystemCD,
+
+note: Light Table must fix the issue where background-color for comment
+      cannot be overwrite by the selected text !important.
+      but the design is well available in the DarkSystemCD color scheme.
+      built by the use for javascript,html,css workflow.
+
+*/
+
+#multi.theme-darksystemcd .tabset .list .active { color:#CCCCCC; }
+#multi.theme-darksystemcd .tabset.active .list .active { color:#CCCCCC; }
+#multi.theme-darksystemcd .tabset.active .list .dirty { color:#CCCCCC; }
+
+.cm-s-darksystemcd { background: black; color:#CCCCCC; font-size:15px; line-height:15px; font-family:'courier new', courier, monospace;}
+
+.cm-s-darksystemcd .CodeMirror-selected {background-color: #7A5B5B !important; color:#E8E8E8;}
+.cm-s-darksystemcd .CodeMirror-focused .CodeMirror-selected {background: #9E6A6A !important;}
+
+.cm-s-darksystemcd span.cm-bracket {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket1 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket2 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket3 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket4 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket5 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket6 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket7 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket8 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket9 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket10 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket11 {font-weight:bold;}
+.cm-s-darksystemcd span.cm-bracket12 {font-weight:bold;}
+
+.cm-s-darksystemcd span.cm-keyword {color: #BFBEBA; font-weight:bold;}         /*function,var,switch,case*/
+.cm-s-darksystemcd span.cm-atom {color: #BFB599;}                              /*inline-block,#ffffff,monospace*/
+.cm-s-darksystemcd span.cm-number {color: #E6DD9C;}                            /*1,2,3*/
+.cm-s-darksystemcd span.cm-def {color: #B3B3B3;}                               /*parameters,variables*//*declaration*/
+.cm-s-darksystemcd span.cm-variable {color: #D6C3C3;}                          /*function name*/
+.cm-s-darksystemcd span.cm-variable-2 {color: #B3B3B3;}                        /*parameters,variables*//*usage*/
+.cm-s-darksystemcd span.cm-variable-3 {color: #DEE0D7;}                        /*hover,link*/
+.cm-s-darksystemcd span.cm-property {color: #C9C9C9; font-weight:bold;}        /*lenght,indexOf*/
+.cm-s-darksystemcd span.cm-operator {color: #E8E8E8;}
+.cm-s-darksystemcd span.cm-comment {color: #B8B8B8; background-color:#0B2F40;} /*comment*/
+.cm-s-darksystemcd span.cm-string {color: #E6DD9C;}                            /*string*/
+.cm-s-darksystemcd span.cm-string-2 {color: #DBAD7D;}
+.cm-s-darksystemcd span.cm-meta {color: #E0ACA4;}                              /*<!DOCTYPE html>,-webkit-*/
+.cm-s-darksystemcd span.cm-error {color: #E35742;}                             /*error*/
+.cm-s-darksystemcd span.cm-qualifier {color: #B5ADA8;}                         /*random*/
+.cm-s-darksystemcd span.cm-builtin {color: #B5ADA8;}                           /*random*/
+.cm-s-darksystemcd span.cm-bracket {color: white;}
+.cm-s-darksystemcd span.cm-tag {color: #95A4AB;}                               /*<img>,<span>*/
+.cm-s-darksystemcd span.cm-attribute {color: #C9C9C9; font-weight:bold;}       /*name,content,id,class*/
+.cm-s-darksystemcd span.cm-header {color: white;}                              /*??*/
+.cm-s-darksystemcd span.cm-quote {color: white;}                               /*??*/
+.cm-s-darksystemcd span.cm-hr {color: white;}                                  /*??*/
+.cm-s-darksystemcd span.cm-link {color: white;}                                /*??*/
+.cm-s-darksystemcd span.cm-symbol {color: white;}                              /*??*/
+
+.cm-s-darksystemcd .CodeMirror-activeline-background {background:#2E2E2E;}
+.cm-s-darksystemcd span.CodeMirror-matchingbracket {background:#4D4B43;}
+.cm-s-darksystemcd span.CodeMirror-nonmatchingbracket {background:#4D4B43; color:red;}
