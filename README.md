@@ -26,10 +26,13 @@ produced in *string* content for functionally on thinking for better code.
 
 **DarkSystemCD&#174;** used to identify, meet, work and publish<br />
 logics and programming design, software, games and music<br />
-on interfaces and electronic, digital and virtual media.<br /><br />
+on interfaces and electronic, digital and virtual media.<br />
 
 **WDS_Styles** is a layout personality scheme<br />
-created for the presentation of WDS.DarkBrain&#174; Productions.<br />
+created for the presentation of WDS.DarkBrain&#174; Productions.<br /><br />
+
+the theme uses color settings for low light screen<br />
+about `brightness 20%\30%`, `contrast 20%\30%`, `backlight 0`, and a dark room environment.<br />
 
 ---
 
