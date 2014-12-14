@@ -11,9 +11,10 @@ translated to javascript code options, the workflow built from DarkSystemCD (pas
 screenshot provides a disorder at the code that preserves consistent reading.
 ![DarkSystemCD](http://i482.photobucket.com/albums/rr181/wdhells/CustomThemes/darksystemcd-lighttable-theme/darksystemcd_lighttable_theme_2.jpg~original)
 ####Software defaults with theme style<br />
-preview the configuration process of the theme by typing `darksystemcd` and saving the file.<br />
-but not before installing it by placing **darksystemcd.css** at<br />
-`\core\css\themes\` where the software location.
+preview the configuration process of the theme by typing `darksystemcd` and saving the Settings: User bahaviour file.<br />
+but not before installing it by placing **darksystemcd.css** at `\core\css\themes\` where the software location.<br />
+and including the theme line at Settings: Default bahaviour<br />
+`[:app :lt.objs.style/provide-theme "darksystemcd" "core/css/themes/darksystemcd.css"]`
 ![DarkSystemCD](http://i482.photobucket.com/albums/rr181/wdhells/CustomThemes/darksystemcd-lighttable-theme/darksystemcd_lighttable_theme_3.jpg~original)
 ####Presentation for HTML remains original<br />
 produced in *string* content for functionally on thinking for better code.
