@@ -6,10 +6,10 @@ as WDS_Styles color scheme.
 
 ####Presentation for better Script codes<br />
 translated to javascript code options, the workflow built from DarkSystemCD (pascal)Delphi Programming.
-![DarkSystemCD](http://i482.photobucket.com/albums/rr181/wdhells/CustomThemes/darksystemcd-lighttable-theme/darksystemcd_lighttable_theme_1.jpg~original)
+![DarkSystemCD](https://googledrive.com/host/0B4nYTSu0FCWLeWZjX3hGMFBFekU/darksystemcd_lighttable_theme_1.jpg)
 ####Presentation for CSS to focus organization<br />
 screenshot provides a disorder at the code that preserves consistent reading.
-![DarkSystemCD](http://i482.photobucket.com/albums/rr181/wdhells/CustomThemes/darksystemcd-lighttable-theme/darksystemcd_lighttable_theme_2.jpg~original)
+![DarkSystemCD](https://googledrive.com/host/0B4nYTSu0FCWLeWZjX3hGMFBFekU/darksystemcd_lighttable_theme_2.jpg)
 ####Software defaults with theme style<br />
 preview the configuration process of the theme by typing `darksystemcd` and saving the Settings: User bahaviour file.<br /><br />
 installing manually it by placing **darksystemcd.css** at `\core\css\themes\` where the software location.<br />
@@ -17,10 +17,10 @@ and including the theme line at Settings: Default bahaviour<br />
 `[:app :lt.objs.style/provide-theme "darksystemcd" "core/css/themes/darksystemcd.css"]`<br /><br />
 or use automatic install<br />
 installing the theme from Plugins: Show plugin manager by browsing the Available content and selecting Install.
-![DarkSystemCD](http://i482.photobucket.com/albums/rr181/wdhells/CustomThemes/darksystemcd-lighttable-theme/darksystemcd_lighttable_theme_3.jpg~original)
+![DarkSystemCD](https://googledrive.com/host/0B4nYTSu0FCWLeWZjX3hGMFBFekU/darksystemcd_lighttable_theme_3.jpg)
 ####Presentation for HTML remains original<br />
 produced in *string* content for functionally on thinking for better code.
-![DarkSystemCD](http://i482.photobucket.com/albums/rr181/wdhells/CustomThemes/darksystemcd-lighttable-theme/darksystemcd_lighttable_theme_4.jpg~original)
+![DarkSystemCD](https://googledrive.com/host/0B4nYTSu0FCWLeWZjX3hGMFBFekU/darksystemcd_lighttable_theme_4.jpg)
 
 ---
 
