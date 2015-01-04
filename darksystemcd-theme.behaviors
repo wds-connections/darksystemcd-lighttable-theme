@@ -1,2 +1,2 @@
-{:+ {:app [(:lt.objs.style/provide-theme "darksystemcd-lowlight" "darksystemcd_lowlight.css")]}}
+{:+ {:app [(:lt.objs.style/provide-theme "darksystemcd" "darksystemcd.css")]}}
 {:+ {:app [(:lt.objs.style/provide-theme "darksystemcd-highlight" "darksystemcd_highlight.css")]}}
