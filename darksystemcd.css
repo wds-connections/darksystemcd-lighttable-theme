@@ -29,7 +29,7 @@ usage: locate your self by reading comments instead of the content,
 #multi.theme-darksystemcd .tabset.active .list .active { color:#CCCCCC; }
 #multi.theme-darksystemcd .tabset.active .list .dirty { color:#CCCCCC; }
 
-.cm-s-darksystemcd { background: black; color:#CCCCCC; font-size:15px; line-height:15px; font-family:'courier new', courier, monospace;}
+.cm-s-darksystemcd { background: black; color:#CCCCCC; font-size:140%; line-height:115%; font-family:'courier new', courier, monospace;}
 
 .cm-s-darksystemcd .CodeMirror-selected {background-color: #7A5B5B; color:#E8E8E8;}
 .cm-s-darksystemcd .CodeMirror-focused .CodeMirror-selected {background: #9E6A6A;}
